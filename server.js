@@ -8,7 +8,7 @@ const fetch = require('node-fetch');
   // const options = {
   //   method: 'GET',
   //   headers: {
-  //     'X-RapidAPI-Key': 'b4aeedd12fmsh3ba2b642e8b03b9p1cb96cjsnc46e4e0e09c5',
+  //     'X-RapidAPI-Key': process.env.default,
   //     'X-RapidAPI-Host': 'madrid-barajas-airport-flights.p.rapidapi.com'
   //   }
   // };
